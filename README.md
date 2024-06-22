@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Etika</h1>
-<h3 align="center">A passionate Software and Frontend developer from India</h3>
+
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1724284800&v=beta&t=vx5Om-en-K_SOounH-SD1Y9BL0CvCMTvbkDs-4IENog)](www.linkedin.com/in/etika-b6b926256)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etika8445" alt="etika8445" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right"  alt="coding" width="550" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etika8445&label=Profile%20views&color=0e75b6&style=flat" alt="etika8445" /> </p>
 
 - 🌱 I’m currently learning **MERN stack**
