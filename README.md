@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Etika</h1>
 <h3 align="center">A passionate Software and Frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etika8445" alt="etika8445" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etika8445&label=Profile%20views&color=0e75b6&style=flat" alt="etika8445" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etika8445" alt="etika8445" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/etika8445" target="blank"><img src="https://img.shields.io/twitter/follow/etika8445?logo=twitter&style=for-the-badge" alt="etika8445" /></a> </p>
-
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [memento-vert.vercel.app](memento-vert.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://memento-vert.vercel.app/)
 
 - 💬 Ask me about **RecatJS**
 
