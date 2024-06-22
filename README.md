@@ -27,5 +27,5 @@
 <span align="center">
 <p><img align="left" width="355" src="https://github-readme-stats.vercel.app/api/top-langs?username=etika8445&show_icons=true&locale=en&layout=compact" alt="etika8445" /></p>
 
-<p >&nbsp;<img width="400" src="https://github-readme-stats.vercel.app/api?username=etika8445&show_icons=true&locale=en" alt="etika8445" /></p>
+<p >&nbsp;<img  align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=etika8445&show_icons=true&locale=en" alt="etika8445" /></p>
 </span>
